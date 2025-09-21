@@ -1,12 +1,48 @@
-# React + Vite
+🛍️ Shops E-Commerce Website  
+A modern e-commerce web application built with React, Tailwind CSS, and AOS animation.  
+เว็บแอปพลิเคชันร้านค้าออนไลน์ที่ออกแบบสวยงาม ตอบสนองเร็ว และใช้งานง่าย สร้างขึ้นด้วย React และตกแต่งด้วย Tailwind CSS  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+🚀 Features / ฟีเจอร์  
+🖼️ Hero Slider (สไลด์โชว์สินค้าโปรโมชัน)  
+📦 Product Listing (แสดงสินค้าพร้อมรายละเอียด)  
+⭐ Top Rated Products Section (สินค้าแนะนำพร้อมเรตติ้ง)  
+🏷️ Banner Promotion (แบนเนอร์โปรโมชันลดราคา)  
+🔍 Search Bar (ค้นหาสินค้า)  
+🛒 Shopping Cart Button (ปุ่มตะกร้าสินค้า)  
+📂 Dropdown Menu (เมนูแบบเลื่อนลง)  
+📱 Fully Responsive (รองรับทุกขนาดหน้าจอ)  
+🎨 AOS Animations (แอนิเมชันเลื่อนสวยงาม)  
+🔗 Footer with Links & Social Media (ฟุตเตอร์พร้อมลิงก์และโซเชียล)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+🌐 Live Demo  
+🔗 View the app online: [https://ecommerce-clone-sepia.vercel.app/]  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+🛠️ Tech Stack / เทคโนโลยีที่ใช้  
+⚛️ React.js (Vite)  
+💨 Tailwind CSS  
+🎠 React Slick (Image Slider)  
+✨ AOS (Animate On Scroll Library)  
+🎨 React Icons  
+
+---
+## 🧑‍💻 How to Run / วิธีใช้งานบนเครื่อง
+
+1. Clone this repository  
+   ```bash
+    git clone https://github.com/Phsithzz/EcommerceClone.git
+    cd TodoList
+
+2. Install dependencies
+    ```bash
+    npm install
+
+3. Start the development server
+    ```bash
+    npm run dev
+
